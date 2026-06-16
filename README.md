@@ -13,6 +13,19 @@ https://github.com/pavarshasree/TechnoHacks-Task5-KMeans-Clustering
 
 https://colab.research.google.com/drive/1sNzMbYVnEMuFF1U9FlyMNYrn9RU0AuTg?usp=sharing
 
+## Project Screenshots
+# Elbow Method
+
+<img width="735" height="481" alt="image" src="https://github.com/user-attachments/assets/7fb35640-4c10-4027-9ef2-6aeba3a9a3ba" />
+
+
+
+# Customer Segmentation Result
+
+<img width="688" height="450" alt="image" src="https://github.com/user-attachments/assets/6d8cab54-110a-4426-bbd7-7595f2a7d538" />
+
+
+
 ## Technologies Used
 
 * Python
